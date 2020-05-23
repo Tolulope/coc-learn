@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://codersofcolour.netlify.app",
+    "apiUrl": "https://coc-docs-test.herokuapp.com/",
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   },
   "production": {
-    "apiUrl": "https://codersofcolour.netlify.app",
+    "apiUrl": "https://coc-docs-test.herokuapp.com/",
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
   }
 }
